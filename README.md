@@ -18,7 +18,7 @@ Term: Fall 2020
 
 Siyu Duan:  Implemented L1 Panalized Logistic Regression and Doubly Robust Estimation to estimate propensity scores and ATE. She was a presenter of this project. 
 
-Yotam Segal: Implemented Regression Estimate Algorithms for ATE.  Helped cross-validate teammembers' code.
+Yotam Segal: Implemented Regression Estimate Algorithms for ATE.  Consolidated codes and created the final version of the project. Yotam cross-validated and fixed team members' codes while improving their efficiency and readability. Yotam also created the communication channel we used in building this project. 
 
 Yuwei Tong: Implemented L1 Panalized Logistic Regression, Propensity Matching, and Linear Propensity Score algorithms to estimate propensity scores and ATE. 
 
