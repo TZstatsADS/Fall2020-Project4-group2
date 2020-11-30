@@ -16,6 +16,7 @@ Term: Fall 2020
 	+ Propensity Matching (linear PS)
 	+ Doubly Robust Estimation
 	+ Regression Estimate
+	
 We evaluated different methods by accuracy (difference between our estimated ATE and real ATE) and running time, and got following results:
 
 Method | Data Type | run_time | ATE | Accuracy   
