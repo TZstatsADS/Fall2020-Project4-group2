@@ -17,9 +17,15 @@ Term: Fall 2020
 	+ Doubly Robust Estimation
 	+ Regression Estimate
 We evaluated different methods by accuracy (difference between our estimated ATE and real ATE) and running time, and got following results:
-Method   |Data Type |run_time   |ATE     |Accuracy   |
-regression_estimate|low   |0.100  |2.527   |98.9%    |
-              |high   |0.167   |-2.960    |98.7%     |
+Method | Data Type | run_time | ATE | Accuracy   
+----- | ----- | ----- | ----- | -----  
+regression_estimate | low | 0.100 | 2.527 | 98.9%    
+             | high | 0.167 | -2.960 | 98.7%
+DRE | low | 0.080 | 2.646 | 94.2%
+    | high | 0.255 | -3.082 | 97.3%
+PSM | low | 0.821 | 2.586 | 96.5%
+    | high | 30.128 | -3.297 | 90.1%
+     
 
 
 	
