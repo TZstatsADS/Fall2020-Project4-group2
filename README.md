@@ -12,7 +12,17 @@ Term: Fall 2020
 	+ Yuwei Tong (yt2713)
 	+ Hanyi Wang (hw2744)
 	+ Lingjia Zhang (lz2720) 
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this project, we implemented and compared different algorithms for Causal Inference on both low dimension data and high dimension data. We compared the following algorithms using L1 penalized logistic regression to estimate propensity score:
+	+ Propensity Matching (linear PS)
+	+ Doubly Robust Estimation
+	+ Regression Estimate
+We evaluated different methods by accuracy (difference between our estimated ATE and real ATE) and running time, and got following results:
+|Method   |Data Type |run_time   |ATE     |Accuracy   |
+| ---------- | :-------:  | :-------: | :-------: | :-------: |
+|regression_estimate|low   |0.100  |2.527   |98.9%    |
+|              |high   |0.167   |-2.960    |98.7%     |
+
+
 	
 **Contribution statement**: All team members approve our work presented in this GitHub repository including this contributions statement. 
 
