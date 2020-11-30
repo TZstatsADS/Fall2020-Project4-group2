@@ -32,7 +32,7 @@ PSM | highDim | 30.128 | -3.297 | 90.1%
 	
 **Contribution statement**: All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Siyu Duan:  Implemented L1 Panalized Logistic Regression and Doubly Robust Estimation to estimate propensity scores and ATE. She was a presenter of this project. 
+Siyu Duan:  Implemented L1 Panalized Logistic Regression and Doubly Robust Estimation to estimate propensity scores and ATE. Created shared doc in the team, scheduled meetings through out the project cycle, and made sure teammembers were on track of assigned tasks.  She was a presenter of this project. 
 
 Yotam Segal: Implemented Regression Estimate Algorithms for ATE.  Consolidated codes and created the final version of the project. Yotam cross-validated and fixed team members' codes while improving their efficiency and readability. Yotam also created the communication channel we used in building this project. 
 
