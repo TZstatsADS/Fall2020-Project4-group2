@@ -20,6 +20,7 @@ We evaluated different methods by accuracy (difference between our estimated ATE
 |Method   |Data Type |run_time   |ATE     |Accuracy   |
 | ---------- | :-------:  | :-------: | :-------: | :-------: |
 |regression_estimate|low   |0.100  |2.527   |98.9%    |
+| ---------- | :-------:  | :-------: | :-------: | :-------: |
 |              |high   |0.167   |-2.960    |98.7%     |
 
 
