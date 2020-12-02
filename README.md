@@ -21,12 +21,12 @@ We evaluated different methods by accuracy (difference between our estimated ATE
 
 Method | Data Type | run_time | ATE | Accuracy   
 --- | --- | --- | --- | ---  
-regression_estimate | lowDim| 0.100 | 2.527 | 98.9%    
-regression_estimate | highDim | 0.167 | -2.960 | 98.7%
-DRE | lowDim | 0.080 | 2.646 | 94.2%
-DRE | highDim | 0.255 | -3.082 | 97.3%
-PSM | lowDim | 0.821 | 2.586 | 96.5%
-PSM | highDim | 30.128 | -3.297 | 90.1%
+regression_estimate | lowDim| 6.618 | 2.532 | 98.7%    
+regression_estimate | highDim | 4.319 | -2.951 | 98.4%
+DRE | lowDim | 0.115 | 2.645 | 94.2%
+DRE | highDim | 0.438 | -3.082 | 97.3%
+PSM | lowDim | 3.323 | 2.586 | 96.5%
+PSM | highDim | 23.656 | -3.069 | 97.7%
      
 
 
